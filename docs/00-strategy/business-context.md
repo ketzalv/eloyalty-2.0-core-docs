@@ -113,3 +113,4 @@ Para evolucionar el producto hacia un modelo más escalable, es necesario:
 - Definir claramente qué es configurable vs custom
 - Optimizar el proceso de branding por marca
 - Diseñar un sistema que permita generar versiones por cliente de forma más rápida y controlada
+
