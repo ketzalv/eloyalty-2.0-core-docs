@@ -1,0 +1,13 @@
+{
+  "brand_id": "roby",
+  "brand_name": "Roby",
+  "logo_path": "docs/02-ux-ui/brands/roby/assets/logo.png",
+  "primary_color": "#001E61",
+  "secondary_color": "#000F31",
+  "background_mode": "solid",
+  "background_color": "#001E61",
+  "logo_width_dp_android": 150,
+  "logo_height_dp_android": 50,
+  "logo_size_pt_ios": 128,
+  "safe_area_margin": 24
+}

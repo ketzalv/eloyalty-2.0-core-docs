@@ -1,0 +1,13 @@
+{
+  "brand_id": "novogas",
+  "brand_name": "Novo Gas",
+  "logo_path": "docs/02-ux-ui/brands/novogas/assets/logo.png",
+  "primary_color": "#1D1B1B",
+  "secondary_color": "#000000",
+  "background_mode": "solid",
+  "background_color": "#1D1B1B",
+  "logo_width_dp_android": 150,
+  "logo_height_dp_android": 50,
+  "logo_size_pt_ios": 128,
+  "safe_area_margin": 24
+}

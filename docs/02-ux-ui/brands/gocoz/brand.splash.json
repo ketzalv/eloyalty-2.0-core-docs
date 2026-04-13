@@ -1,0 +1,13 @@
+{
+  "brand_id": "gocoz",
+  "brand_name": "Gocoz",
+  "logo_path": "docs/02-ux-ui/brands/gocoz/assets/logo.png",
+  "primary_color": "#2A38FF",
+  "secondary_color": "#1823A3",
+  "background_mode": "solid",
+  "background_color": "#2A38FF",
+  "logo_width_dp_android": 150,
+  "logo_height_dp_android": 50,
+  "logo_size_pt_ios": 128,
+  "safe_area_margin": 24
+}

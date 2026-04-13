@@ -1,0 +1,13 @@
+{
+  "brand_id": "swapoints",
+  "brand_name": "SwaPoints",
+  "logo_path": "docs/02-ux-ui/brands/swapoints/assets/logo.png",
+  "primary_color": "#0200CE",
+  "secondary_color": "#010067",
+  "background_mode": "solid",
+  "background_color": "#0200CE",
+  "logo_width_dp_android": 150,
+  "logo_height_dp_android": 50,
+  "logo_size_pt_ios": 128,
+  "safe_area_margin": 24
+}
